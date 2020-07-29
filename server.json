@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "name": "Nome do produto 01",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5587cfe0-52be-49b4-92bf-a2e10787353e/d9jqlmy-3872d4c6-49b9-4235-abab-052124a8a9c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1ODdjZmUwLTUyYmUtNDliNC05MmJmLWEyZTEwNzg3MzUzZVwvZDlqcWxteS0zODcyZDRjNi00OWI5LTQyMzUtYWJhYi0wNTIxMjRhOGE5YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jfex3yqT3u7XnLn8N2JHXfkCvt08dEGSjCB9745sASU",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "1234",
+      "name": "Nome do produto 02",
+      "image": "https://ttyalondon.com/wp-content/uploads/2015/09/Denim-Blog-8.jpg",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "12345",
+      "name": "Nome do produto 03",
+      "image": "https://www.monroeandmainblog.com/wp-content/uploads/2015/06/Screen-Shot-2015-07-09-at-3.01.37-PM.png",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "123456",
+      "name": "Nome do produto 04",
+      "image": "https://i.redd.it/70fv96qcsbt31.jpg",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "1231",
+      "name": "Nome do produto 01",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5587cfe0-52be-49b4-92bf-a2e10787353e/d9jqlmy-3872d4c6-49b9-4235-abab-052124a8a9c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1ODdjZmUwLTUyYmUtNDliNC05MmJmLWEyZTEwNzg3MzUzZVwvZDlqcWxteS0zODcyZDRjNi00OWI5LTQyMzUtYWJhYi0wNTIxMjRhOGE5YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jfex3yqT3u7XnLn8N2JHXfkCvt08dEGSjCB9745sASU",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "12341",
+      "name": "Nome do produto 02",
+      "image": "https://ttyalondon.com/wp-content/uploads/2015/09/Denim-Blog-8.jpg",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "123451",
+      "name": "Nome do produto 03",
+      "image": "https://www.monroeandmainblog.com/wp-content/uploads/2015/06/Screen-Shot-2015-07-09-at-3.01.37-PM.png",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "1234561",
+      "name": "Nome do produto 04",
+      "image": "https://i.redd.it/70fv96qcsbt31.jpg",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "1232",
+      "name": "Nome do produto 01",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5587cfe0-52be-49b4-92bf-a2e10787353e/d9jqlmy-3872d4c6-49b9-4235-abab-052124a8a9c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1ODdjZmUwLTUyYmUtNDliNC05MmJmLWEyZTEwNzg3MzUzZVwvZDlqcWxteS0zODcyZDRjNi00OWI5LTQyMzUtYWJhYi0wNTIxMjRhOGE5YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Jfex3yqT3u7XnLn8N2JHXfkCvt08dEGSjCB9745sASU",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "12342",
+      "name": "Nome do produto 02",
+      "image": "https://ttyalondon.com/wp-content/uploads/2015/09/Denim-Blog-8.jpg",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "123452",
+      "name": "Nome do produto 03",
+      "image": "https://www.monroeandmainblog.com/wp-content/uploads/2015/06/Screen-Shot-2015-07-09-at-3.01.37-PM.png",
+      "description": "Descrição do produto"
+    },
+    {
+      "id": "1234562",
+      "name": "Nome do produto 04",
+      "image": "https://i.redd.it/70fv96qcsbt31.jpg",
+      "description": "Descrição do produto"
+    }
+  ]
+}
