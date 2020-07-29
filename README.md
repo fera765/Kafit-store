@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GoStack" src="" />
+<img alt="GoStack" src="https://raw.githubusercontent.com/fera765/Kafit-store/master/tmp/animation.gif" />
 </p>
 <h1 align="center">
   🚀 React Native App 🚀
